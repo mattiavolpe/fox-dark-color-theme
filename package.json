@@ -1,0 +1,22 @@
+{
+  "name": "fox-dark-color-theme",
+  "displayName": "Fox Dark Color Theme",
+  "description": "A dark color theme made by Fox",
+  "publisher": "MattiaVolpe",
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Fox Dark Color Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Fox Dark Color Theme-color-theme.json"
+      }
+    ]
+  }
+}
