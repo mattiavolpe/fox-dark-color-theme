@@ -3,6 +3,10 @@
   "displayName": "Fox Dark Color Theme",
   "description": "A dark color theme made by Fox",
   "publisher": "MattiaVolpe",
+  "repository": {
+    "url": "https://github.com/mattiavolpe/fox-dark-color-theme"
+  },
+  "icon": "./img/screenshot.png",
   "version": "0.0.2",
   "engines": {
     "vscode": "^1.74.0"
